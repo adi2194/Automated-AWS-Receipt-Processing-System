@@ -32,10 +32,9 @@ The architecture consists of:
 
 ---
 
-## ⚙️ Estimated Time & Cost
+## ⚙️ Estimated Cost
 
-- **Time**: ~2 hours  
-- **Cost**: Free (AWS Free Tier Eligible)
+-  Free (AWS Free Tier Eligible)
 
 ---
 
